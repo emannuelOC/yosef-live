@@ -11,7 +11,7 @@ router.get('/', function(req, res, next) {
  		if (err) {
     		return res.status(500).send(err);
   		}
-  		res.send(data);
+  		res.send(JSON.parse(data));
 	});
 });
 

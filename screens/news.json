@@ -1,0 +1,84 @@
+{
+	"type": "elementList",
+	"properties": [],
+	"children": [
+		{
+			"type": "text",
+			"properties": [
+				{
+                    "name": "text",
+                    "type": "string",
+                    "value": "Laugh and empathy"
+                },
+                {
+                    "name": "textColor",
+                    "type": "color",
+                    "value": "#333839"
+                },
+                {
+                    "name": "textSize",
+                    "type": "dimen",
+                    "value": "22"
+                },
+                {
+                	"name": "margin",
+                    "type": "margin",
+                    "value": "16"
+                }
+                    
+			]
+		},
+		{
+			"type": "text",
+			"properties": [
+				{
+                    "name": "text",
+                    "type": "string",
+                    "value": "10/20/17"
+                },
+                {
+                    "name": "textColor",
+                    "type": "color",
+                    "value": "#333839"
+                },
+                {
+                    "name": "textSize",
+                    "type": "dimen",
+                    "value": "18"
+                },
+                {
+                	"name": "margin",
+                    "type": "margin",
+                    "value": "16"
+                }
+                    
+			]
+		},
+		{
+			"type": "text",
+			"properties": [
+				{
+                    "name": "text",
+                    "type": "string",
+                    "value": "We thank Mr. Reeves."
+                },
+                {
+                    "name": "textColor",
+                    "type": "color",
+                    "value": "#333839"
+                },
+                {
+                    "name": "textSize",
+                    "type": "dimen",
+                    "value": "18"
+                },
+                {
+                	"name": "margin",
+                    "type": "margin",
+                    "value": "16"
+                }
+                    
+			]
+		}	
+    ]
+}

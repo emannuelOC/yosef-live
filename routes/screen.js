@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 
-let screenName = "news.json";
+let screenName = "main.json";
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {

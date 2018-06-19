@@ -2,18 +2,38 @@
 	"type": "elementList",
 	"properties": [],
 	"children": [
+        {
+            "type": "text",
+            "properties": [
+                {
+                    "name": "text",
+                    "type": "string",
+                    "value": "Hello world!"
+                },
+                {
+                    "name": "margin",
+                    "type": "margin",
+                    "value": "60,60,60,60"
+                },
+                {
+                    "name": "textSize",
+                    "type": "dimen",
+                    "value": "40"
+                }
+            ]
+        },
 		{
 			"type": "text",
 			"properties": [
 				{
                     "name": "text",
                     "type": "string",
-                    "value": "Laugh and empathy"
+                    "value": "Change this text"
                 },
                 {
                     "name": "textColor",
                     "type": "color",
-                    "value": "#333839"
+                    "value": "#33AA33"
                 },
                 {
                     "name": "textSize",
@@ -34,7 +54,7 @@
 				{
                     "name": "text",
                     "type": "string",
-                    "value": "10/20/17"
+                    "value": "10/20/2017"
                 },
                 {
                     "name": "textColor",
